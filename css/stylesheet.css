@@ -10,6 +10,7 @@ body{
 .header{
   margin-left: auto;
   margin-right: auto;
+  width: 90%;
 }
 
 li{
@@ -24,10 +25,13 @@ li{
 .logo{
   margin-bottom: 20px;
   margin-top: 10px;
+  width: 90%;
+  display: block;
 }
 
 a:link{
   color: rgb(50, 50, 50);
+  text-decoration: none;
 }
 
 a:visited{
@@ -47,9 +51,11 @@ a:active{
   font-size: 14pt;
   margin-left:400px;
   margin-top: 50px;
+  width: 500px;
 }
 
 h2{
   font-family: Herculanum, Lihos Pro Regular, Calibri, sans-serif;
   font-size: 15pt;
+  margin-top: 60px;
 }
