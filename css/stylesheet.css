@@ -24,8 +24,6 @@ li{
 
 }
 
-
-
 a:link{
   color: rgb(50, 50, 50);
   text-decoration: none;
@@ -56,4 +54,9 @@ h2{
   font-family: Herculanum, Lihos Pro Regular, Calibri, sans-serif;
   font-size: 15pt;
   margin-top: 60px;
+}
+
+.bildhaus{
+
+  height: 400px;
 }
