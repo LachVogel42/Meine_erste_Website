@@ -16,9 +16,40 @@ li{
   display: inline-block;
   list-style-type: none;
   padding: 70px;
+  font-family: Herculanum, Lihos Pro Regular, Calibri, sans-serif;
+  font-size: 18pt;
+
 }
 
 .logo{
   margin-bottom: 20px;
   margin-top: 10px;
+}
+
+a:link{
+  color: rgb(50, 50, 50);
+}
+
+a:visited{
+  color: black;
+}
+
+a:hover{
+  color: rgb(213, 233, 239);
+}
+
+a:active{
+  color: rgb(213, 233, 239);
+}
+
+.content{
+  font-family: Calibri, Arial, sans-serif;
+  font-size: 14pt;
+  margin-left:400px;
+  margin-top: 50px;
+}
+
+h2{
+  font-family: Herculanum, Lihos Pro Regular, Calibri, sans-serif;
+  font-size: 15pt;
 }
