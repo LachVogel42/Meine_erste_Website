@@ -48,6 +48,8 @@ a:active{
   width: 450px;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 100px;
+
 }
 
 h2{
@@ -58,5 +60,29 @@ h2{
 
 .bildhaus{
 
-  height: 400px;
+  width: 450px;
+  margin-top: 40px;
+
+}
+
+figcaption{
+
+  font-size: 11pt;
+}
+
+figure{
+  margin-left: inherit;
+  margin-right: inherit;
+}
+
+.maerchen1{
+  margin-top: 40px;
+}
+
+.einzelbild{
+  display: inline-block;
+  padding: 10px;
+  width: 215px;
+  padding-top: 0;
+  padding-bottom: 0;
 }
