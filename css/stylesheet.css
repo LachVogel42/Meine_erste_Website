@@ -113,3 +113,32 @@ hr{
 .tanzprojekt{
   margin-top: 40px;
 }
+
+.datum{
+  padding-right: 15px;
+}
+
+table{
+  font-family: Calibri, Arial, sans-serif;
+  font-size: 14pt;
+}
+td{
+  padding-bottom: 15px;
+}
+
+.einzelbild3{
+  display: inline-block;
+  padding-left: 10px;
+  width: 143px;
+}
+
+.einzelbild4{
+  display: inline-block;
+  padding-left: 10px;
+  width: 143px;
+}
+
+.einzelbild5{
+  display: inline-block;
+  width: 143px;
+}
