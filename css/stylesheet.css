@@ -15,6 +15,11 @@ body{
   text-align: center;
 }
 
+.fixedsticky{
+  position: sticky;
+  top: 0px;
+
+}
 li{
   display: inline-block;
   list-style-type: none;
