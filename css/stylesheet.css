@@ -15,6 +15,11 @@ body{
   text-align: center;
 }
 
+.logo{
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px;
+}
 .fixedsticky{
   position: sticky;
   top: 0px;
@@ -23,7 +28,7 @@ body{
 li{
   display: inline-block;
   list-style-type: none;
-  padding: 70px;
+  padding: 50px;
   font-family: Herculanum, Lihos Pro Regular, Calibri, sans-serif;
   font-size: 18pt;
 
@@ -50,7 +55,7 @@ a:active{
   font-family: Calibri, Arial, sans-serif;
   font-size: 14pt;
   margin-top: 50px;
-  width: 450px;
+  width: 550px;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 100px;
@@ -65,7 +70,7 @@ h2{
 
 .bildhaus{
 
-  width: 450px;
+  width: 550px;
   margin-top: 40px;
 
 }
@@ -86,14 +91,15 @@ figure{
 
 .einzelbild1{
   display: inline-block;
-  padding-right: 10px;
-  width: 215px;
+  padding-right: 15px;
+  width: 47%;
 }
 
 .einzelbild2{
   display: inline-block;
-  padding-left: 10px;
-  width: 215px;
+  padding-left: 15px;
+  width: 47%;
+
 }
 
 hr{
@@ -134,16 +140,16 @@ td{
 .einzelbild3{
   display: inline-block;
   padding-left: 10px;
-  width: 143px;
+  width: 176px;
 }
 
 .einzelbild4{
   display: inline-block;
   padding-left: 10px;
-  width: 143px;
+  width: 176px;
 }
 
 .einzelbild5{
   display: inline-block;
-  width: 143px;
+  width: 176px;
 }
